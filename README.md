@@ -14,9 +14,5 @@
 </p>
 </br>
 </br>
-</br>
-<div align="center" > 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisstherain310&layout=compact&theme=vue&hide=PHP&langs_count=6" height="250" alt="Top languages card" />   
-</div>
 
 
